@@ -1,4 +1,4 @@
-m
+
 # Everfresh Aquaponics 🌿
 
 Interactive React (Vite) website for **Everfresh Aquaponics** — *Sustainable food for Northern Ontario*.
@@ -7,7 +7,8 @@ Interactive React (Vite) website for **Everfresh Aquaponics** — *Sustainable f
 
 Click the button below to deploy this site instantly to your Vercel account:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/stoolie76/everfresh-aquaponics)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YOUR_USERNAME/everfresh-aquaponics-vercel&project-name=everfresh-aquaponics&repository-name=everfresh-aquaponics&demo-title=Everfresh%20Aquaponics&demo-description=Sustainable%20food%20for%20Northern%20Ontario&demo-url=https://everfresh-aquaponics.vercel.app)
+
 ---
 
 ### 🧑‍💻 Local development
